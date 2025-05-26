@@ -1,5 +1,14 @@
 <h1 align="center">Social Media Mass Automation Suite</h1>
 
+## Project Overview:
+This project is a complete stealth automation suite designed for large-scale, human-like interactions across X (Twitter), Facebook, and Instagram. Built for users who need reliable, undetectable social media management at scale, it handles everything from account creation to mass posting and engagement using iOS and Android emulation strategies. Perfect for marketing agencies or brands running Mother/Child systems, this solution automates real user-like behavior—across hundreds of accounts—while mimicking native app usage for maximum trust signals.
+
+
+## Core Features:
+- **Stealth-Level Emulation:** Leverages mobile iOS/Android automation for algorithmic boosts and lower detection risk, with full fingerprint spoofing.
+- **Multi-Platform Scalability:** Simultaneous automation across X, Facebook, and Instagram—customizable per platform with unique flow logic.
+- **High Conversion Strategy Integration:** Built-in Mother/Child architecture with AI-powered behavioral targeting and viral loop strategies for growth and lead gen.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,15 +71,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This project is a complete stealth automation suite designed for large-scale, human-like interactions across X (Twitter), Facebook, and Instagram. Built for users who need reliable, undetectable social media management at scale, it handles everything from account creation to mass posting and engagement using iOS and Android emulation strategies. Perfect for marketing agencies or brands running Mother/Child systems, this solution automates real user-like behavior—across hundreds of accounts—while mimicking native app usage for maximum trust signals.
-
-
-## Core Strengths
-- **Stealth-Level Emulation:** Leverages mobile iOS/Android automation for algorithmic boosts and lower detection risk, with full fingerprint spoofing.
-- **Multi-Platform Scalability:** Simultaneous automation across X, Facebook, and Instagram—customizable per platform with unique flow logic.
-- **High Conversion Strategy Integration:** Built-in Mother/Child architecture with AI-powered behavioral targeting and viral loop strategies for growth and lead gen.
 
 ## Features List:
 | Feature                     | Description                                                                 |
